@@ -1,6 +1,4 @@
-from ex1 import add
-from ex1 import sub
-from ex1 import func1
+from . import add, sub, func1
 
 add = add.add
 sub = sub.sub
